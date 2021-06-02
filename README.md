@@ -22,3 +22,5 @@ As ferramentas utilizadas no desenvolvimento desse projeto, foram:
 - **Node.js**
 - **TypeScript**
 - **React**
+
+Clique <a href = "https://davi-dsendas.netlify.app"> aqui</a> para ver o projeto publicado e em funcionamento.
