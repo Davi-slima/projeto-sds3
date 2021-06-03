@@ -4,7 +4,7 @@
 O Projeto SDS3 é uma <b>Dashboard de vendas</b> desenvolvido durante a <b>semana Spring-React</b>, um evento desenvolvido e organizado pela 
 <a href="https://devsuperior.com.br">DevSuperior</a>.
 
-Esta aplicação é composta de um sistema que apresenta, em formato de gráficos, a % (porcentagem) de sucesso de na realização de vendas de produtos e 
+Esta aplicação é composta de um sistema que apresenta, em formato de gráficos, a % (porcentagem) de sucesso na realização das vendas de produtos e 
 o total de vendas de cada um dos vendedores.
 
 <h3>Ferramentas utilizadas</h3>
